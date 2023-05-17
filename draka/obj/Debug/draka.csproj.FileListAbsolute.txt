@@ -1,0 +1,8 @@
+C:\Users\upass\OneDrive\Рабочий стол\курсы\draka\bin\Debug\draka.exe.config
+C:\Users\upass\OneDrive\Рабочий стол\курсы\draka\bin\Debug\draka.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\draka\bin\Debug\draka.pdb
+C:\Users\upass\OneDrive\Рабочий стол\курсы\draka\obj\Debug\draka.csproj.AssemblyReference.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\draka\obj\Debug\draka.csproj.SuggestedBindingRedirects.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\draka\obj\Debug\draka.csproj.CoreCompileInputs.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\draka\obj\Debug\draka.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\draka\obj\Debug\draka.pdb
